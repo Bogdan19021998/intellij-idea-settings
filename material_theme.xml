@@ -1,0 +1,11 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="settingsSelectedTab" value="1" />
+    <option name="accentColor" value="009688" />
+    <option name="userId" value="3b817216:16e45606a16:-8000" />
+    <option name="version" value="4.5.2" />
+  </component>
+</application>
